@@ -8,7 +8,7 @@ System/software requirements
 	c.	Java 8 installed with maven 3.2.5 0r higher
 	d.	Should have GIT client (Tortoise Git) with valid Git userId and password.
 
-1.	Clone Git project poster to your local machine.
+1.	Clone Git project poster to your local machine Testing it .
 2.	Import project in eclipse.
 3.	Build maven project.
 4.	Database setup
